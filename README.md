@@ -8,4 +8,5 @@
 |----|---------|----------|--------|
 | 1  | [Course intro](homeworks/hw1_got_survival.ipynb) | Классификация: выжил ли персонаж из "Игры Престолов" | ✅ |
 | 2  | [Linear models](homeworks/hw2_linear_models.ipynb) | Методы регуляризации и градиентного спуска | ✅ |
-| 3  | TBD | Скоро будет... | ⏳ |
+| 3  | [Composition](homeworks/hw3_gradient_boosting.ipynb) | Композиция алгоритмов и градиентный бустинг, подбор гиперпараметров | ✅ |
+| 4  | TBD | Скоро будет... | ⏳ |
